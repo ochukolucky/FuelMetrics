@@ -1,0 +1,15 @@
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\bin\Debug\net5.0\FuelMetrics.Domain.deps.json
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\bin\Debug\net5.0\FuelMetrics.Domain.runtimeconfig.json
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\bin\Debug\net5.0\FuelMetrics.Domain.runtimeconfig.dev.json
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\bin\Debug\net5.0\FuelMetrics.Domain.dll
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\bin\Debug\net5.0\FuelMetrics.Domain.pdb
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.csproj.AssemblyReference.cache
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.AssemblyInfoInputs.cache
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.AssemblyInfo.cs
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.dll
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\refint\FuelMetrics.Domain.dll
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.pdb
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\FuelMetrics.Domain.genruntimeconfig.cache
+C:\Users\okorodiden.lucky\source\repos\FuelMetrics\FuelMetrics.Domain\obj\Debug\net5.0\ref\FuelMetrics.Domain.dll
